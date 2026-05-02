@@ -126,11 +126,6 @@ JWT_SECRET=your_secret_key
 * Frontend → Vercel
 * Backend → Render / Railway
 
----
-
-## 📸 Screenshots
-
-(Add your UI screenshots here)
 
 ---
 
