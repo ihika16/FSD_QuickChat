@@ -1,6 +1,9 @@
 # 💬 QuickChat – Full Stack Chat Application
 
-QuickChat is a full-stack real-time chat application that allows users to communicate instantly with secure authentication and efficient backend services.
+QuickChat is a full-stack real-time chat application designed to enable seamless communication between users. It provides secure authentication using JWT, efficient message handling, and a responsive user interface for smooth user experience across devices.
+
+The application is built using modern web technologies, with a React-based frontend and a Node.js + Express backend connected to a MongoDB database. It supports one-to-one messaging, protected routes, and scalable backend architecture, making it suitable for real-world communication systems.
+
 
 ---
 
@@ -136,6 +139,10 @@ JWT_SECRET=your_secret_key
 ## 👨‍💻 Author
 
 **Ihika**
+
+* GitHub: https://github.com/ihika16
+* Role: Full Stack Developer
+
 
 ---
 
