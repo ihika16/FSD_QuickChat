@@ -4,6 +4,17 @@ QuickChat is a full-stack real-time chat application designed to enable seamless
 
 The application is built using modern web technologies, with a React-based frontend and a Node.js + Express backend connected to a MongoDB database. It supports one-to-one messaging, protected routes, and scalable backend architecture, making it suitable for real-world communication systems.
 
+---
+
+## 🎥 Demo Videos
+
+### 🔙 Backend Demo
+
+👉 https://drive.google.com/file/d/1SYhcZ7TniPVpQ41_YmNDIniCXAdDN319/view?usp=sharing
+
+### 🎨 Frontend Demo
+
+👉 https://drive.google.com/file/d/1r2NricTrKfElv2J7wNoJRdbCJfeU9lZU/view?usp=sharing
 
 ---
 
@@ -25,7 +36,7 @@ The application is built using modern web technologies, with a React-based front
 
 * React.js
 * Vite
-* CSS / Tailwind (if used)
+* CSS / Tailwind
 
 ### Backend (server)
 
@@ -37,7 +48,7 @@ The application is built using modern web technologies, with a React-based front
 
 ## 📂 Project Structure
 
-```
+```bash
 QuickChat/
 │
 ├── client/                  # React frontend
@@ -66,8 +77,6 @@ git clone https://github.com/ihika16/FSD_QuickChat.git
 cd FSD_QuickChat
 ```
 
----
-
 ### 2️⃣ Setup Backend
 
 ```bash
@@ -75,8 +84,6 @@ cd server
 npm install
 npm start
 ```
-
----
 
 ### 3️⃣ Setup Frontend
 
@@ -92,7 +99,7 @@ npm run dev
 
 Create a `.env` file inside `server/`:
 
-```
+```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
@@ -123,7 +130,7 @@ JWT_SECRET=your_secret_key
 
 ## 📸 Screenshots
 
-(Add your UI screenshots here for better presentation)
+(Add your UI screenshots here)
 
 ---
 
@@ -142,7 +149,6 @@ JWT_SECRET=your_secret_key
 
 * GitHub: https://github.com/ihika16
 * Role: Full Stack Developer
-
 
 ---
 
